@@ -1,7 +1,8 @@
 # 你好，我是 [Van_Vodkaer]! 👋🎉
 
 ## 🌟 关于我
-你好！我是一名热情的编程学习者，目前正在积极探索和学习编程的奥秘。虽然我还在学习阶段，但我对 C/C++ 和 Python 有一定的了解，同时对 Node.js, HTML, CSS, JavaScript, 和 Vue 较为熟悉。🚀
+你好！我是一名热情的编程学习者，目前正在积极探索和学习编程的奥秘。
+虽然我还在学习阶段，但我对 C/C++ 和 Python 有一定的了解，同时对 Node.js, HTML, CSS, JavaScript, 和 Vue 较为熟悉。🚀
 
 ## 🌐 我热爱的技术
 - 💻 C | C++ | Python
