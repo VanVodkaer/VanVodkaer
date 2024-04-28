@@ -9,12 +9,13 @@
 - 🌍 Node.js | HTML | CSS | JavaScript | Vue
 
 ## 😄 更多关于我
-我是一个二次元文化的狂热爱好者，喜欢通过动漫和漫画来放松自己。在编程之外，我还喜欢探索这个充满无限可能的虚拟世界！🌌📚  
-我的个人博客 [Van_VodkaerのSecret Garden](https://blog.vodkaer.com/)
+我是一个二次元文化的狂热爱好者，喜欢通过动漫和漫画来放松自己。  
+在编程之外，我还喜欢探索这个充满无限可能的虚拟世界！🌌📚  
+我的个人博客: [Van_VodkaerのSecret Garden](https://blog.vodkaer.com/)
 
 ## 📫 联系方式
-- GitHub: @[VanVodkaer]
-- 邮箱: [mail@vodkaer.com]
+- GitHub: [@VanVodkaer](https://github.com/VanVodkaer)
+- 邮箱: [mail@vodkaer.com](mailto:mail@vodkaer.com)
 
 ---
 感谢你访问我的 GitHub 主页！虽然我还在学习的路上，但我热爱这个过程，并期待未来能参与到更多的项目中。🌟
