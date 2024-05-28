@@ -6,10 +6,10 @@
 
 ## 🌐 我热爱的技术
 - 💻 C | C++ | Python
-- 🌍 Node.js | HTML | CSS | JavaScript | Vue
+- 🌍 Node.js | HTML | CSS | JavaScript | Vue | React
 
 ## 😄 更多关于我
-我是一个二次元文化的狂热爱好者，喜欢通过动漫和漫画来放松自己。  
+我是一个二次元文化的狂热爱好者，喜欢通过动漫和漫画来放松自己，热爱女仆文化和咖啡☕。  
 在编程之外，我还喜欢探索这个充满无限可能的虚拟世界！🌌📚  
 我的个人博客: [Van_VodkaerのSecret Garden](https://blog.vodkaer.com/)
 
